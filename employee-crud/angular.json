@@ -28,9 +28,27 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/vendor/fontawesome-free/css/all.min.css",
+              "src/assets/css/sb-admin-2.min.css",
+              "src/assets/vendor/datatables/dataTables.bootstrap4.min.css",
+              "node_modules/primeng/resources/themes/nova-light/theme.css",
+              "node_modules/primeng/resources/primeng.min.css",
+              "node_modules/primeicons/primeicons.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/sb-admin-2.js",
+              "node_modules/jquery/dist/jquery.min.js",
+              "src/assets/vendor/jquery/jquery.min.js",
+              "src/assets/vendor/bootstrap/js/bootstrap.bundle.min.js",
+              "src/assets/vendor/jquery-easing/jquery.easing.min.js",
+              "src/assets/js/sb-admin-2.min.js",
+              "src/assets/vendor/jquery-easing/jquery.easing.min.js",
+              "src/assets/vendor/datatables/jquery.dataTables.min.js",
+              "src/assets/vendor/datatables/dataTables.bootstrap4.min.js",
+              "src/assets/js/demo/datatables-demo.js",
+              "node_modules/ngx-toastr/toastr.css"
+            ]
           },
           "configurations": {
             "production": {
