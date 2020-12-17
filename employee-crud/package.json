@@ -23,7 +23,7 @@
     "@types/jquery": "^3.3.38",
     "angular-datatables": "^6.0.0",
     "angular2-in-memory-web-api": "0.0.21",
-    "datatables.net": "^1.10.21",
+    "datatables.net": "^1.10.22",
     "datatables.net-dt": "^1.10.21",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
